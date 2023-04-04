@@ -40,7 +40,6 @@ Printing the precision and recall, among other metrics:
            0       0.98      0.79      0.88     14602
            1       0.12      0.70      0.21       602
     accuracy                           0.79     15204
-   macro avg       0.55      0.74      0.54     15204
-weighted avg       0.95      0.79      0.85     15204
+
 
 
